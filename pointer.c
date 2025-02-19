@@ -12,6 +12,7 @@ int main() {
 
     printf("%d\n", a);
 
-
+    int *x;
+    printf("%d\n", *x);
     return 0;
 }
